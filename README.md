@@ -22,8 +22,8 @@ My name is Rafael Dias Belinelli
 <br>
 <div align="center">
   <a href="https://github.com/RafaelDays">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayuda22&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayuda22&layout=compact&langs_count=7&theme=blue-green"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RafaelDays&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaelDays&layout=compact&langs_count=7&theme=blue-green"/>
 </div>
   
  ##
