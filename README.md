@@ -2,6 +2,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RafaelDays/RafaelDays/master/banner.png" width="100%" title="Intro Banner" alt="Intro Banner">
+</p>
+
 My name is Rafael Dias Belinelli and I'm an IT student at COTUCA - Technical High School of Campinas - Unicamp. I plan to be a Full-stack developer, but I have a preference for Front-end development.
 
 ---
