@@ -20,7 +20,7 @@ My name is Rafael Dias Belinelli and I'm an IT student at COTUCA - Technical Hig
 
 --- 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelDays&show_icons=true&theme=radical&hide_border=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaelBelinelli&show_icons=true&theme=radical&hide_border=true)
 
 ---
 
